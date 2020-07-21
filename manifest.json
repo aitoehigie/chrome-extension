@@ -1,5 +1,6 @@
 {
 	"manifest_version": 2,
+	"name": "Python Superman Chrome Plugin",
 	"description": "Python Superman.",
 	"version": "1.0",
 	"browser_action": {
